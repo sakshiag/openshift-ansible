@@ -1,7 +1,7 @@
 ---
 required_packages:
   - iproute
-  - python-dbus
+  - dbus-python
   - PyYAML
   - yum-utils
   - python-ipaddress
